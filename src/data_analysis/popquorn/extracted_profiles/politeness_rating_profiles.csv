@@ -1,0 +1,26 @@
+gender,race,age,education,count
+Woman,American India or Alaska Native,Middle adulthood,College degree,1
+Woman,Asian,Middle adulthood,College degree,10
+Man,Asian,Middle adulthood,College degree,8
+Man,Asian,Early adulthood,College degree,4
+Woman,Asian,Early adulthood,High school diploma or equivalent,3
+Man,Asian,Early adulthood,High school diploma or equivalent,2
+Man,Black or African American,Middle adulthood,College degree,10
+Woman,Black or African American,Early adulthood,College degree,10
+Woman,Black or African American,Middle adulthood,College degree,10
+Woman,Black or African American,Middle adulthood,High school diploma or equivalent,9
+Man,Black or African American,Early adulthood,College degree,5
+Woman,Hebrew,Middle adulthood,Other,1
+Man,Hispanic or Latino,Early adulthood,College degree,7
+Man,Hispanic or Latino,Middle adulthood,College degree,6
+Woman,Hispanic or Latino,Middle adulthood,College degree,6
+Man,Hispanic or Latino,Early adulthood,High school diploma or equivalent,4
+Woman,Hispanic or Latino,Early adulthood,College degree,4
+Man,Native Hawaiian or Pacific Islander,Middle adulthood,College degree,2
+Man,Prefer not to disclose,Middle adulthood,College degree,2
+Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,Prefer not to disclose,2
+Man,White,Middle adulthood,College degree,70
+Woman,White,Middle adulthood,College degree,65
+Man,White,Middle adulthood,High school diploma or equivalent,30
+Woman,White,Middle adulthood,High school diploma or equivalent,29
+Woman,White,Early adulthood,College degree,28

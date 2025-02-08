@@ -1,0 +1,22 @@
+gender,race,age,education,count
+Man,Asian,,College degree,7
+Woman,Asian,,College degree,5
+Man,Asian,,High school diploma or equivalent,1
+Non-binary,Asian,,College degree,1
+Woman,Asian,,High school diploma or equivalent,1
+Woman,Biracial,,College degree,1
+Woman,Black or African American,,College degree,7
+Man,Black or African American,,College degree,6
+Man,Black or African American,,High school diploma or equivalent,5
+Woman,Black or African American,,High school diploma or equivalent,2
+Man,Hispanic or Latino,,College degree,4
+Non-binary,Hispanic or Latino,,College degree,1
+Non-binary,Hispanic or Latino,,High school diploma or equivalent,1
+Woman,Hispanic or Latino,,College degree,1
+Woman,Hispanic or Latino,,High school diploma or equivalent,1
+Man,Indigenous American,,College degree,1
+Woman,White,,College degree,59
+Man,White,,College degree,42
+Man,White,,High school diploma or equivalent,35
+Woman,White,,High school diploma or equivalent,34
+Non-binary,White,,College degree,4

@@ -1,0 +1,26 @@
+gender,race,age,education,count
+Woman,Arab American,Early adulthood,Other,1
+Woman,Asian,Middle adulthood,College degree,4
+Man,Asian,Middle adulthood,College degree,3
+Woman,Asian,Early adulthood,College degree,3
+Man,Asian,Early adulthood,College degree,2
+Man,Asian,Early adulthood,High school diploma or equivalent,2
+Woman,Black or African American,Middle adulthood,College degree,8
+Man,Black or African American,Middle adulthood,College degree,6
+Man,Black or African American,Early adulthood,College degree,5
+Woman,Black or African American,Early adulthood,High school diploma or equivalent,3
+Woman,Black or African American,Middle adulthood,High school diploma or equivalent,3
+Man,Hispanic or Latino,Middle adulthood,College degree,2
+Man,Hispanic or Latino,Early adulthood,College degree,1
+Woman,Hispanic or Latino,Late adulthood,College degree,1
+Woman,Hispanic or Latino,Middle adulthood,College degree,1
+Man,Native American,Early adulthood,High school diploma or equivalent,1
+Man,Native American,Late adulthood,Other,1
+Man,Native American,Middle adulthood,High school diploma or equivalent,1
+Woman,Native American,Early adulthood,College degree,1
+Woman,Native American,Early adulthood,High school diploma or equivalent,1
+Woman,White,Middle adulthood,College degree,41
+Man,White,Middle adulthood,College degree,35
+Woman,White,Middle adulthood,High school diploma or equivalent,19
+Man,White,Early adulthood,College degree,18
+Woman,White,Early adulthood,College degree,15
